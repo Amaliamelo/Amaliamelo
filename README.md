@@ -21,8 +21,6 @@
 
 </br>
 </br>
-</br>
-
 
 ## :bulb: Algumas tecnologias que tenho interesse:
 
@@ -34,16 +32,10 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"   height="50"/></code>
 
-
-
 </br>
 </br>
 </br>
-
 </br>
-</br>
-</br>
-
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
