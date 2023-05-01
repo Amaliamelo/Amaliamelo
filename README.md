@@ -32,16 +32,11 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"   height="50"/></code>
 
-</br>
-</br>
-</br>
-</br>
-
 ## 📊 Github Stats
 
-<code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviafausto&layout=compact&theme=tokyonight)](https://github.com/liviafausto)</code>
+<code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaliamelo&layout=compact&theme=tokyonight)](https://github.com/Amaliamelo)</code>
 
-<code>[![Livia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liviafausto&theme=tokyonight&show_icons=true)](https://github.com/liviafausto)</code>
+<code>[![Livia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amaliamelo&theme=tokyonight&show_icons=true)](https://github.com/Amaliamelo)</code>
 
 <br>
 <!--
