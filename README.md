@@ -8,7 +8,7 @@
 
 - :coffee: Adoro conversar e ter boas integrações.
 
-- 🚀 Tenho 20 anos, sou curiosa e tenho muito a aprender...
+- 🚀 Tenho 21 anos, sou curiosa e tenho muito a aprender...
 
 
 
