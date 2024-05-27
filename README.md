@@ -8,7 +8,7 @@
 
 - :coffee: Adoro conversar sobre a vida, a verdade e o universo.
 
-- :headset: Passo boa parte do tempo ouvindo podcasts e/ou audiobooks.
+- 🎧: Passo boa parte do tempo ouvindo podcasts e/ou audiobooks.
 
 - 🚀 Tenho 21 anos, sou curiosa e tenho muito a aprender...
 
