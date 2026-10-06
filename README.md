@@ -10,7 +10,7 @@
 
 - 🎧 Passo boa parte do tempo ouvindo podcasts e/ou audiobooks.
 
-- 🚀 Tenho 23 anos, sou curiosa e tenho muito a aprender...
+- 🚀 Tenho 24 anos, sou curiosa e tenho muito a aprender...
 
 
 
